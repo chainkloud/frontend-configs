@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Suncex Mainnet",
+        "url": "https://explorer.suncex.com/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/chainkloud/frontend-configs/master/configs/network-icons/sunx.svg",
+        "isActive": true
+    }
+]
